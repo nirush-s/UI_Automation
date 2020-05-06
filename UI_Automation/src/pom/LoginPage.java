@@ -18,7 +18,7 @@ public class LoginPage extends BasePage
 	private WebElement companyName;
 	
 	@FindBy(id="ctl00_ContentPlaceHolder_lnkCompany")
-	private WebElement rideTheLeaseWave;
+	private WebElement ride;
 	
 	@FindBy(id="ctl00_ContentPlaceHolder_loginControl_txtUserName")
 	public WebElement userName;
@@ -48,7 +48,7 @@ public class LoginPage extends BasePage
 	
 	public void rideTheLeaseWave()
 	{
-		rideTheLeaseWave.click();
+		ride.click();
 	}
 	
 	public void setuserName(String un)

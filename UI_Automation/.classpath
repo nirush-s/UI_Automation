@@ -2,33 +2,33 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/SQL JDBC/sqljdbc42.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/bson-3.3.0.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/extentreports-3.1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/freemarker-2.3.23.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/gson-2.8.0.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/httpclient-4.5.2.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/httpcore-4.4.4.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/httpmime-4.5.2.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/jsoup-1.9.2.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/mongodb-driver-3.3.0.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/mongodb-driver-core-3.3.0.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-examples-3.17.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-excelant-3.17.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-ooxml-schemas-3.17.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-3.17.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-ooxml-3.17.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-scratchpad-3.17.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/xmlbeans-2.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/curvesapi-1.04.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/commons-collections4-4.1.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/junit-4.12.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="/Users/300069257/Desktop/UI_Automation/UI_Automation/Framework/Jars/Selenium Jars/selenium-server-standalone-3.7.1.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Extent Reports/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Apache POI Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/SQL JDBC/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/git/UI_Automation/UI_Automation/Framework/Jars/Selenium Jars/selenium-server-standalone-3.7.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

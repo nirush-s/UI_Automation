@@ -10,7 +10,7 @@ import com.aventstack.extentreports.Status;
 import generic.BaseTest;
 import pom.ListPage;
 
-public class CreateAsset_Script extends BaseTest
+public class CreateData_Script extends BaseTest
 {
 	
 	public void assetCreation(WebDriver driver, ExtentTest test,Map<String, String> map) throws Exception
@@ -22,7 +22,7 @@ public class CreateAsset_Script extends BaseTest
 		
 		
 		// Asset List page
-		assetlistpage.clickOnaddButton();
+		assetlistpage.searchByAlias("Test");
 		
 		test.log(Status.PASS, "Asset created successfully -" +map.get("AssetAlias"));
 	}

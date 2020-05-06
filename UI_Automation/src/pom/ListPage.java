@@ -64,24 +64,7 @@ public  class ListPage extends BasePage
 			
 			
 		
-			
-			public void clickOnSelectAll()
-			{
-				dynamicwait.webDriverWait(selectAll);
-				selectAll.click();	
-			}
-			public void clickOnSelectButton(String str)
-			{
-				dynamicwait.webDriverWait(select);
-				select.click();	
-				driver.switchTo().window(str);
-			}
-			
-			public void clickOnaddButton()
-			{
-				dynamicwait.webDriverWait(addButton);
-				addButton.click();	
-			}
+		
 			
 			public void searchByAlias(String alias)
 			{
@@ -97,26 +80,7 @@ public  class ListPage extends BasePage
 				unitnumber.sendKeys(unNumber);
 			}
 			
-			public void clickOnSearchButton() 
-			{
-		
-				dynamicwait.webDriverWait(searchButton);
-				searchButton.click();
-			}
-			
-			public void clickOnCurrentAll()
-			{
-				dynamicwait.webDriverWait(currentpage);
-				currentpage.click();
-				
-			}
-			
-			public void clickOnSelectButton()
-			{
-				dynamicwait.webDriverWait(selectButton);
-				selectButton.click();
-			}
-			
+
 			public void clickOnSelectExportButton(String beforewindow) 
 			{
 				dynamicwait.webDriverWait(selectExportButton);
